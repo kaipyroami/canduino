@@ -1,5 +1,5 @@
 # canduino
-Automatically exported from code.google.com/p/canduino
+Automatically exported from [Google Code](http://code.google.com/p/canduino)
 
 
 
